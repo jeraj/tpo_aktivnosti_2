@@ -27,11 +27,10 @@
 | X | Vodenje projekta | 10% | 20% | 10% | 10% | 50% |
 | A | Sklop A | 20% | 20% | 20% | 20% | 20% |
 | B1 | Design aplikacije | 25% | 50% | 0% | 25% | 0% |
-| B2 | Frontend prototip | 50% | 0% | 0% | 50% | 0% |
-| B3 | Backend prototip | 0% | 0% | 50% | 100% | 50% |
+| B2 | Frontend prototip | 40% | 20% | 0% | 40% | 0% |
+| B3 | Backend prototip | 0% | 0% | 50% | 0% | 50% |
 | B4 | Vzpostavitev podatkovne baze | 0% | 0% | 100% | 0% | 0% |
 | B5 | Preverjanje prototipa z naročniki | 0% | 0% | 0% | 0% | 100% |
 | B6 | Popravek prototipa | 20% | 20% | 20% | 20% | 20% |
-| B | Sklop B | 20% | 20% | 20% | 20% | 20% |
 | C | Sklop C | 20% | 20% | 20% | 20% | 20% |
 | D | Sklop D | 20% | 20% | 20% | 20% | 20% |
