@@ -34,7 +34,7 @@
 | Predvideni datum pričetka izvajanja aktivnosti | x |
 | Predvideni datum zaključka izvajanja aktivnosti | x |
 | Trajanje | x |
-| Naziv aktivnosti | Frontend prototip |
+| Naziv aktivnosti | Backend prototip |
 | Obseg aktivnosti v ČM | x |
 | Seznam ciljev aktivnosti | Razviti osnovni backend prototip aplikacije. |
 | Opis aktivnosti | Ekipa razvije osnovni backend prototipa z API funkcionalnostmi. |
