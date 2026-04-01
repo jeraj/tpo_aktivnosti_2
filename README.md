@@ -24,7 +24,7 @@
 
 | Oznaka aktivnosti | Naziv aktivnosti | 1. član | 2. član | 3. član | 4. član | 5. član |
 |---|---|---|---|---|---|---|
-| X | Vodenje projekta | 50% | 10% | 10% | 10% | 20% |
+| X | Vodenje projekta | 10% | 20% | 10% | 10% | 50% |
 | A | Sklop A | 20% | 20% | 20% | 20% | 20% |
 | B1 | Design aplikacije | 25% | 50% | 0% | 25% | 0% |
 | B2 | Frontend prototip | 50% | 0% | 0% | 50% | 0% |
