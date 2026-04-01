@@ -41,6 +41,45 @@
 | Morebitne odvisnosti in omejitve | Odvisnost: B1. |
 | Pričakovani rezultati aktivnosti | Delujoč backend prototip z osnovnimi funkcionalnostmi. |
 
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | B4 |
+| Predvideni datum pričetka izvajanja aktivnosti | x |
+| Predvideni datum zaključka izvajanja aktivnosti | x |
+| Trajanje | x |
+| Naziv aktivnosti | Vzpostavitev podatkovne baze |
+| Obseg aktivnosti v ČM | x |
+| Seznam ciljev aktivnosti | Zasnovati strukturo podatkovne baze in jo vzpostaviti. |
+| Opis aktivnosti | Vzpostavitev podatkovne baze in njene strukture. |
+| Morebitne odvisnosti in omejitve | Odvisnost: B2, B3. |
+| Pričakovani rezultati aktivnosti | Vzpostavljena podatkovna baza z osnovno strukturo. |
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | B5 |
+| Predvideni datum pričetka izvajanja aktivnosti | x |
+| Predvideni datum zaključka izvajanja aktivnosti | x |
+| Trajanje | x |
+| Naziv aktivnosti | Preverjanje prototipa z naročniki |
+| Obseg aktivnosti v ČM | x |
+| Seznam ciljev aktivnosti | Predstaviti prototip naročnikom, pridobiti povratne informacije o uporabnosti. |
+| Opis aktivnosti | Predstavitev prototipa naročnikom in zbiranje povratnih informacij. |
+| Morebitne odvisnosti in omejitve | Odvisnost: B2, B3. |
+| Pričakovani rezultati aktivnosti | Zbrane povratne informacije in identificirane izboljšave. |
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | B6 |
+| Predvideni datum pričetka izvajanja aktivnosti | x |
+| Predvideni datum zaključka izvajanja aktivnosti | x |
+| Trajanje | x |
+| Naziv aktivnosti | Preverjanje prototipa z naročniki |
+| Obseg aktivnosti v ČM | x |
+| Seznam ciljev aktivnosti | Analizirati pridobljene povratne informacije, določiti potrebne izboljšave in impementirati popravke prototipa. |
+| Opis aktivnosti | Izvedba popravkov prototipa na podlagi povratnih informacij. |
+| Morebitne odvisnosti in omejitve | Odvisnost: B5. |
+| Pričakovani rezultati aktivnosti | Izboljšan prototip z implementiranimi popravki. |
+
 ### Razdelitev dela
 1. član - Jan
 2. član - Alenka
