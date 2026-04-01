@@ -5,15 +5,41 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | B1 |
-| Predvideni datum pričetka izvajanja aktivnosti | 16.3..2026 |
-| Predvideni datum zaključka izvajanja aktivnosti | 24.2.2026 |
-| Trajanje | 2 delovna dneva |
-| Naziv aktivnosti |   Design aplikacije |
-| Obseg aktivnosti v ČM | 10 ŠČD / 20 * 4/8 = 0.25 ČM |
-| Seznam ciljev aktivnosti | Opredeliti osnovno idejo projekta, določiti problem, ki ga projekt rešuje |
-| Opis aktivnosti | Ekipa skupaj definira osnovno idejo projekta, opiše kontekst problema in preveri, kateri problem uporabnikov bo projekt reševal. |
-| Morebitne odvisnosti in omejitve | Ni odvisnosti |
-| Pričakovani rezultati aktivnosti | Opisana projektna ideja, opredeljen problem |
+| Predvideni datum pričetka izvajanja aktivnosti | x |
+| Predvideni datum zaključka izvajanja aktivnosti | x |
+| Trajanje | x |
+| Naziv aktivnosti | Design aplikacije |
+| Obseg aktivnosti v ČM | x |
+| Seznam ciljev aktivnosti | Pripraviti osnovni dizajn aplikacije |
+| Opis aktivnosti | Ekipa pripravi vizualno zasnovo aplikacije (UX/UI) ter osnovne uporabniške tokove. |
+| Morebitne odvisnosti in omejitve | Odvisnost: A8. |
+| Pričakovani rezultati aktivnosti | Pripravljena vizualna zasnova aplikacije ter definirani osnovni uporabniški tokovi. |
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | B2 |
+| Predvideni datum pričetka izvajanja aktivnosti | x |
+| Predvideni datum zaključka izvajanja aktivnosti | x |
+| Trajanje | x |
+| Naziv aktivnosti | Frontend prototip |
+| Obseg aktivnosti v ČM | x |
+| Seznam ciljev aktivnosti | Razviti osnovni frontend prototip aplikacije. |
+| Opis aktivnosti | Ekipa ravzije osnovni frontend prototipa z uporabniškim vmesnikom in interakcijami. |
+| Morebitne odvisnosti in omejitve | Odvisnost: B1. |
+| Pričakovani rezultati aktivnosti | Delujoč frontend prototip z osnovnimi funkcionalnostmi. |
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | B3 |
+| Predvideni datum pričetka izvajanja aktivnosti | x |
+| Predvideni datum zaključka izvajanja aktivnosti | x |
+| Trajanje | x |
+| Naziv aktivnosti | Frontend prototip |
+| Obseg aktivnosti v ČM | x |
+| Seznam ciljev aktivnosti | Razviti osnovni backend prototip aplikacije. |
+| Opis aktivnosti | Ekipa razvije osnovni backend prototipa z API funkcionalnostmi. |
+| Morebitne odvisnosti in omejitve | Odvisnost: B1. |
+| Pričakovani rezultati aktivnosti | Delujoč backend prototip z osnovnimi funkcionalnostmi. |
 
 ### Razdelitev dela
 1. član - Jan
