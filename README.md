@@ -11,7 +11,7 @@
 | Naziv aktivnosti | Design aplikacije |
 | Obseg aktivnosti v ČM | 6 ŠČD / 20 * 4/8 = 0.15 ČM |
 | Seznam ciljev aktivnosti | Pripraviti osnovni dizajn aplikacije |
-| Opis aktivnosti | Ekipa pripravi vizualno zasnovo aplikacije (UX/UI) ter osnovne uporabniške tokove. |
+| Opis aktivnosti | Ekipa pripravi vizualno zasnovo aplikacije (UX/UI), osnovne uporabniške tokove in arhitekturo sistema. |
 | Morebitne odvisnosti in omejitve | Odvisnost: A8. |
 | Pričakovani rezultati aktivnosti | Pripravljena vizualna zasnova aplikacije ter definirani osnovni uporabniški tokovi. |
 
@@ -23,10 +23,10 @@
 | Trajanje | 5 delovnih dni |
 | Naziv aktivnosti | Frontend prototip |
 | Obseg aktivnosti v ČM | 10 ŠČD / 20 * 4/8 = 0.25 ČM |
-| Seznam ciljev aktivnosti | Razviti osnovni frontend prototip aplikacije. |
+| Seznam ciljev aktivnosti | Razviti osnovni frontend prototip aplikacije |
 | Opis aktivnosti | Ekipa ravzije osnovni frontend prototipa z uporabniškim vmesnikom in interakcijami. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B1. |
-| Pričakovani rezultati aktivnosti | Delujoč frontend prototip z osnovnimi funkcionalnostmi. |
+| Pričakovani rezultati aktivnosti | Delujoč frontend prototip z osnovnimi funkcionalnostmi |
 
 | Polje | Vrednost |
 |---|---|
@@ -36,10 +36,10 @@
 | Trajanje | 5 delovnih dni |
 | Naziv aktivnosti | Backend prototip |
 | Obseg aktivnosti v ČM | 10 ŠČD / 20 * 4/8 = 0.25 ČM |
-| Seznam ciljev aktivnosti | Razviti osnovni backend prototip aplikacije. |
+| Seznam ciljev aktivnosti | Razviti osnovni backend prototip aplikacije |
 | Opis aktivnosti | Ekipa razvije osnovni backend prototipa z API funkcionalnostmi. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B1. |
-| Pričakovani rezultati aktivnosti | Delujoč backend prototip z osnovnimi funkcionalnostmi. |
+| Pričakovani rezultati aktivnosti | Delujoč backend prototip z osnovnimi funkcionalnostmi |
 
 | Polje | Vrednost |
 |---|---|
