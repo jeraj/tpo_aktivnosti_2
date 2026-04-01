@@ -5,11 +5,11 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | B1 |
-| Predvideni datum pričetka izvajanja aktivnosti | x |
-| Predvideni datum zaključka izvajanja aktivnosti | x |
-| Trajanje | x |
+| Predvideni datum pričetka izvajanja aktivnosti | 16.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 18.3.2026 |
+| Trajanje | 3 delovnih dni |
 | Naziv aktivnosti | Design aplikacije |
-| Obseg aktivnosti v ČM | x |
+| Obseg aktivnosti v ČM | 6 ŠČD / 20 * 4/8 = 0.15 ČM |
 | Seznam ciljev aktivnosti | Pripraviti osnovni dizajn aplikacije |
 | Opis aktivnosti | Ekipa pripravi vizualno zasnovo aplikacije (UX/UI) ter osnovne uporabniške tokove. |
 | Morebitne odvisnosti in omejitve | Odvisnost: A8. |
@@ -18,11 +18,11 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | B2 |
-| Predvideni datum pričetka izvajanja aktivnosti | x |
-| Predvideni datum zaključka izvajanja aktivnosti | x |
-| Trajanje | x |
+| Predvideni datum pričetka izvajanja aktivnosti | 19.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 25.3.2026 |
+| Trajanje | 5 delovnih dni |
 | Naziv aktivnosti | Frontend prototip |
-| Obseg aktivnosti v ČM | x |
+| Obseg aktivnosti v ČM | 10 ŠČD / 20 * 4/8 = 0.25 ČM |
 | Seznam ciljev aktivnosti | Razviti osnovni frontend prototip aplikacije. |
 | Opis aktivnosti | Ekipa ravzije osnovni frontend prototipa z uporabniškim vmesnikom in interakcijami. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B1. |
@@ -31,11 +31,11 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | B3 |
-| Predvideni datum pričetka izvajanja aktivnosti | x |
-| Predvideni datum zaključka izvajanja aktivnosti | x |
-| Trajanje | x |
+| Predvideni datum pričetka izvajanja aktivnosti | 19.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 25.3.2026 |
+| Trajanje | 5 delovnih dni |
 | Naziv aktivnosti | Backend prototip |
-| Obseg aktivnosti v ČM | x |
+| Obseg aktivnosti v ČM | 10 ŠČD / 20 * 4/8 = 0.25 ČM |
 | Seznam ciljev aktivnosti | Razviti osnovni backend prototip aplikacije. |
 | Opis aktivnosti | Ekipa razvije osnovni backend prototipa z API funkcionalnostmi. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B1. |
@@ -44,11 +44,11 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | B4 |
-| Predvideni datum pričetka izvajanja aktivnosti | x |
-| Predvideni datum zaključka izvajanja aktivnosti | x |
-| Trajanje | x |
+| Predvideni datum pričetka izvajanja aktivnosti | 26.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 30.3.2026 |
+| Trajanje | 3 delovnih dni |
 | Naziv aktivnosti | Vzpostavitev podatkovne baze |
-| Obseg aktivnosti v ČM | x |
+| Obseg aktivnosti v ČM | 3ŠČD / 20 * 4/8 = 0.075 ČM|
 | Seznam ciljev aktivnosti | Zasnovati strukturo podatkovne baze in jo vzpostaviti. |
 | Opis aktivnosti | Vzpostavitev podatkovne baze in njene strukture. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B2, B3. |
@@ -57,11 +57,11 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | B5 |
-| Predvideni datum pričetka izvajanja aktivnosti | x |
-| Predvideni datum zaključka izvajanja aktivnosti | x |
-| Trajanje | x |
+| Predvideni datum pričetka izvajanja aktivnosti | 26.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 26.3.2026 |
+| Trajanje | 1 delovni dan |
 | Naziv aktivnosti | Preverjanje prototipa z naročniki |
-| Obseg aktivnosti v ČM | x |
+| Obseg aktivnosti v ČM | 1 ŠČD / 20 * 4/8 = 0.025 ČM |
 | Seznam ciljev aktivnosti | Predstaviti prototip naročnikom, pridobiti povratne informacije o uporabnosti. |
 | Opis aktivnosti | Predstavitev prototipa naročnikom in zbiranje povratnih informacij. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B2, B3. |
@@ -70,11 +70,11 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | B6 |
-| Predvideni datum pričetka izvajanja aktivnosti | x |
-| Predvideni datum zaključka izvajanja aktivnosti | x |
-| Trajanje | x |
+| Predvideni datum pričetka izvajanja aktivnosti | 31.4.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 3.4.2026 |
+| Trajanje | 4 delovnih dni |
 | Naziv aktivnosti | Preverjanje prototipa z naročniki |
-| Obseg aktivnosti v ČM | x |
+| Obseg aktivnosti v ČM | 20 ŠČD / 20 * 4/8 = 0.5 ČM |
 | Seznam ciljev aktivnosti | Analizirati pridobljene povratne informacije, določiti potrebne izboljšave in impementirati popravke prototipa. |
 | Opis aktivnosti | Izvedba popravkov prototipa na podlagi povratnih informacij. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B5. |
@@ -92,7 +92,7 @@
 | X | Vodenje projekta | 10% | 20% | 10% | 10% | 50% |
 | A | Sklop A | 20% | 20% | 20% | 20% | 20% |
 | B1 | Design aplikacije | 25% | 50% | 0% | 25% | 0% |
-| B2 | Frontend prototip | 40% | 20% | 0% | 40% | 0% |
+| B2 | Frontend prototip | 50% | 0% | 0% | 50% | 0% |
 | B3 | Backend prototip | 0% | 0% | 50% | 0% | 50% |
 | B4 | Vzpostavitev podatkovne baze | 0% | 0% | 100% | 0% | 0% |
 | B5 | Preverjanje prototipa z naročniki | 0% | 0% | 0% | 0% | 100% |
