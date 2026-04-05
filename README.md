@@ -126,7 +126,7 @@
 | Oznaka aktivnosti | A8 |
 | Predvideni datum pričetka izvajanja aktivnosti | 11.3.2026 |
 | Predvideni datum zaključka izvajanja aktivnosti | 13.3.2026 |
-| Trajanje | 2 delovna dneva |
+| Trajanje | 3 delovni dnevi |
 | Naziv aktivnosti | Finalizacija predloga |
 | Obseg aktivnosti v ČM | 4 ŠČD / 20 * 4/8 = 0.1 ČM |
 | Seznam ciljev aktivnosti | Oddaja končnega predloga |
