@@ -142,7 +142,7 @@
 | Predvideni datum pričetka izvajanja aktivnosti | 16.3.2026 |
 | Predvideni datum zaključka izvajanja aktivnosti | 18.3.2026 |
 | Trajanje | 3 delovnih dni |
-| Naziv aktivnosti | Design aplikacije |
+| Naziv aktivnosti | Dizajn aplikacije |
 | Obseg aktivnosti v ČM | 6 ŠČD / 20 * 4/8 = 0.15 ČM |
 | Seznam ciljev aktivnosti | Pripraviti osnovni dizajn aplikacije |
 | Opis aktivnosti | Ekipa pripravi vizualno zasnovo aplikacije (UX/UI), osnovne uporabniške tokove in arhitekturo sistema. |
