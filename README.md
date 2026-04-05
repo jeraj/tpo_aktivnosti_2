@@ -181,12 +181,12 @@
 | Predvideni datum pričetka izvajanja aktivnosti | 26.3.2026 |
 | Predvideni datum zaključka izvajanja aktivnosti | 30.3.2026 |
 | Trajanje | 3 delovnih dni |
-| Naziv aktivnosti | Vzpostavitev podatkovne baze |
+| Naziv aktivnosti | Načrtovanje podatkovnega modela in API vmesnikov |
 | Obseg aktivnosti v ČM | 3ŠČD / 20 * 4/8 = 0.075 ČM|
-| Seznam ciljev aktivnosti | Zasnovati strukturo podatkovne baze in jo vzpostaviti. |
-| Opis aktivnosti | Vzpostavitev podatkovne baze in njene strukture. |
+| Seznam ciljev aktivnosti | Načrtovanje podatkovnega modela in API vmesnikov |
+| Opis aktivnosti | Opredelitev podatkovnega modela in osnovnih API vmesnikov sistema. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B2, B3. |
-| Pričakovani rezultati aktivnosti | Vzpostavljena podatkovna baza z osnovno strukturo. |
+| Pričakovani rezultati aktivnosti | Definiran podatkovni model in dokumentirani API vmesniki za delovanje prototipa. |
 
 | Polje | Vrednost |
 |---|---|
