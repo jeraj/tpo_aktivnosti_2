@@ -149,6 +149,8 @@
 | Morebitne odvisnosti in omejitve | Odvisnost: A8. |
 | Pričakovani rezultati aktivnosti | Pripravljena vizualna zasnova aplikacije ter definirani osnovni uporabniški tokovi. |
 
+### Aktivnost B2
+
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | B2 |
@@ -161,6 +163,8 @@
 | Opis aktivnosti | Ekipa ravzije osnovni frontend prototipa z uporabniškim vmesnikom in interakcijami. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B1. |
 | Pričakovani rezultati aktivnosti | Delujoč frontend prototip z osnovnimi funkcionalnostmi |
+
+### Aktivnost B3
 
 | Polje | Vrednost |
 |---|---|
@@ -175,6 +179,8 @@
 | Morebitne odvisnosti in omejitve | Odvisnost: B1. |
 | Pričakovani rezultati aktivnosti | Definirani API vmesniki za delovanje prototipa. |
 
+### Aktivnost B4
+
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | B4 |
@@ -188,6 +194,8 @@
 | Morebitne odvisnosti in omejitve | Odvisnost: B2, B3. |
 | Pričakovani rezultati aktivnosti | Definiran podatkovni model sistema. |
 
+### Aktivnost B5
+
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | B5 |
@@ -200,6 +208,8 @@
 | Opis aktivnosti | Predstavitev prototipa naročnikom in zbiranje povratnih informacij. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B2, B3. |
 | Pričakovani rezultati aktivnosti | Zbrane povratne informacije in identificirane izboljšave. |
+
+### Aktivnost B6
 
 | Polje | Vrednost |
 |---|---|
