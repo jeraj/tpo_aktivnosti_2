@@ -252,7 +252,7 @@
 | X | Vodenje projekta | 10% | 20% | 10% | 10% | 50% |
 | A1 | Opredelitev projektne ideje in problema | 20% | 20% | 20% | 20% | 20% |
 | A2 | Projektni načrt | 20% | 20% | 20% | 20% | 20% |
-| A3 | Definiranje API vmesnikov | 0% | 50% | 50% | 0% | 0% |
+| A3 | Deležniki in potrebe naročnika | 0% | 50% | 50% | 0% | 0% |
 | A4 | Uporabniške zahteve | 0% | 0% | 0% | 100% | 0% |
 | A5 | Cilji projekta in merila uspeha | 0% | 50% | 0% | 0% | 50% |
 | A6 | Osnutek sistema | 20% | 20% | 20% | 20% | 20% |
@@ -260,7 +260,7 @@
 | A8 | Finalizacija predloga | 0%| 0% | 25% | 25% | 50% |
 | B1 | Design aplikacije | 25% | 50% | 0% | 25% | 0% |
 | B2 | Frontend prototip | 50% | 0% | 0% | 50% | 0% |
-| B3 | Backend prototip | 0% | 0% | 50% | 0% | 50% |
+| B3 | Definiranje API vmesnikov | 0% | 0% | 50% | 0% | 50% |
 | B4 | Definiranje podatkovne baze | 0% | 0% | 100% | 0% | 0% |
 | B5 | Preverjanje prototipa z naročniki | 0% | 0% | 0% | 0% | 100% |
 | B6 | Popravek prototipa | 20% | 20% | 20% | 20% | 20% |
