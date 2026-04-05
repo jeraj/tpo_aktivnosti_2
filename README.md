@@ -246,13 +246,8 @@
 
 
 ### Razdelitev dela
-1. član - Jan
-2. član - Alenka
-3. član - Filip
-4. član - Jera
-5. član - Tomaž
 
-| Oznaka aktivnosti | Naziv aktivnosti | 1. član | 2. član | 3. član | 4. član | 5. član |
+| Oznaka aktivnosti | Naziv aktivnosti | Jan | Alenka | Filip | Jera | Tomaž |
 |---|---|---|---|---|---|---|
 | X | Vodenje projekta | 10% | 20% | 10% | 10% | 50% |
 | A1 | Opredelitev projektne ideje in problema | 20% | 20% | 20% | 20% | 20% |
