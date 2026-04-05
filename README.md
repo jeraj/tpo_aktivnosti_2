@@ -168,12 +168,12 @@
 | Predvideni datum pričetka izvajanja aktivnosti | 19.3.2026 |
 | Predvideni datum zaključka izvajanja aktivnosti | 25.3.2026 |
 | Trajanje | 5 delovnih dni |
-| Naziv aktivnosti | Backend prototip |
+| Naziv aktivnosti | Definiranje API vmesnikov |
 | Obseg aktivnosti v ČM | 10 ŠČD / 20 * 4/8 = 0.25 ČM |
-| Seznam ciljev aktivnosti | Razviti osnovni backend prototip aplikacije |
-| Opis aktivnosti | Ekipa razvije osnovni backend prototipa z API funkcionalnostmi. |
+| Seznam ciljev aktivnosti | Opredeliti ključne API vmesnike za komunikacijo med frontend in backend sistemom. |
+| Opis aktivnosti | Definiranje osnovnih API vmesnikov sistema. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B1. |
-| Pričakovani rezultati aktivnosti | Delujoč backend prototip z osnovnimi funkcionalnostmi |
+| Pričakovani rezultati aktivnosti | Definirani API vmesniki za delovanje prototipa. |
 
 | Polje | Vrednost |
 |---|---|
@@ -181,12 +181,12 @@
 | Predvideni datum pričetka izvajanja aktivnosti | 26.3.2026 |
 | Predvideni datum zaključka izvajanja aktivnosti | 30.3.2026 |
 | Trajanje | 3 delovnih dni |
-| Naziv aktivnosti | Vzpostavitev podatkovne baze|
-| Obseg aktivnosti v ČM | 3ŠČD / 20 * 4/8 = 0.075 ČM|
-| Seznam ciljev aktivnosti | Zasnovati strukturo podatkovne baze in jo vzpostaviti. |
-| Opis aktivnosti | Vzpostavitev podatkovne baze in njene strukture. |
+| Naziv aktivnosti | Definiranje podatkovne baze |
+| Obseg aktivnosti v ČM | 3ŠČD / 20 * 4/8 = 0.075 ČM |
+| Seznam ciljev aktivnosti | Opredeliti strukturo podatkovnega modela in glavne entitete sistema. |
+| Opis aktivnosti | Opredelitev podatkovnega modela sistema. |
 | Morebitne odvisnosti in omejitve | Odvisnost: B2, B3. |
-| Pričakovani rezultati aktivnosti | Vzpostavljena podatkovna baza z osnovno strukturo |
+| Pričakovani rezultati aktivnosti | Definiran podatkovni model sistema. |
 
 | Polje | Vrednost |
 |---|---|
