@@ -49,8 +49,8 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | A3 |
-| Predvideni datum pričetka izvajanja aktivnosti | 26.2.2026 |
-| Predvideni datum zaključka izvajanja aktivnosti | 2.3.2026 |
+| Predvideni datum pričetka izvajanja aktivnosti | 25.2.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 27.2.2026 |
 | Trajanje | 3 delovni dnevi |
 | Naziv aktivnosti | Deležniki in potrebe naročnika |
 | Obseg aktivnosti v ČM | 6 ŠČD / 20 * 4/8 = 0.15 ČM |
@@ -64,8 +64,8 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | A4 |
-| Predvideni datum pričetka izvajanja aktivnosti | 3.3.2026 |
-| Predvideni datum zaključka izvajanja aktivnosti | 5.3.2026 |
+| Predvideni datum pričetka izvajanja aktivnosti | 2.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 4.3.2026 |
 | Trajanje | 3 delovni dnevi |
 | Naziv aktivnosti | Uporabniške zahteve |
 | Obseg aktivnosti v ČM | 3 ŠČD / 20 * 4/8 = 0.075 ČM |
@@ -79,8 +79,8 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | A5 |
-| Predvideni datum pričetka izvajanja aktivnosti | 3.3.2026 |
-| Predvideni datum zaključka izvajanja aktivnosti | 5.3.2026 |
+| Predvideni datum pričetka izvajanja aktivnosti | 2.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 4.3.2026 |
 | Trajanje | 3 delovni dnevi |
 | Naziv aktivnosti | Cilji projekta in merila uspeha |
 | Obseg aktivnosti v ČM | 6 ŠČD / 20 * 4/8 = 0.15 ČM |
@@ -94,8 +94,8 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | A6 |
-| Predvideni datum pričetka izvajanja aktivnosti | 6.3.2026 |
-| Predvideni datum zaključka izvajanja aktivnosti | 6.3.2026 |
+| Predvideni datum pričetka izvajanja aktivnosti | 5.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 5.3.2026 |
 | Trajanje | 1 delovni dan |
 | Naziv aktivnosti | Osnutek sistema |
 | Obseg aktivnosti v ČM | 5 ŠČD / 20 * 4/8 = 0.125 ČM |
@@ -109,8 +109,8 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | A7 |
-| Predvideni datum pričetka izvajanja aktivnosti | 9.3.2026 |
-| Predvideni datum zaključka izvajanja aktivnosti | 10.3.2026 |
+| Predvideni datum pričetka izvajanja aktivnosti | 6.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 9.3.2026 |
 | Trajanje | 2 delovna dneva |
 | Naziv aktivnosti | Predlagan pristop razvoja |
 | Obseg aktivnosti v ČM | 4 ŠČD / 20 * 4/8 = 0.1 ČM |
@@ -124,11 +124,11 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | A8 |
-| Predvideni datum pričetka izvajanja aktivnosti | 11.3.2026 |
+| Predvideni datum pričetka izvajanja aktivnosti | 10.3.2026 |
 | Predvideni datum zaključka izvajanja aktivnosti | 13.3.2026 |
-| Trajanje | 3 delovni dnevi |
+| Trajanje | 4 delovni dnevi |
 | Naziv aktivnosti | Finalizacija predloga |
-| Obseg aktivnosti v ČM | 4 ŠČD / 20 * 4/8 = 0.1 ČM |
+| Obseg aktivnosti v ČM | 8 ŠČD / 20 * 4/8 = 0.2 ČM |
 | Seznam ciljev aktivnosti | Oddaja končnega predloga |
 | Opis aktivnosti | Pregled poglavij in združevanje v končni predlog projekta. |
 | Morebitne odvisnosti in omejitve | Odvisnost: A2, A5, A7 |
@@ -255,7 +255,14 @@
 | Oznaka aktivnosti | Naziv aktivnosti | 1. član | 2. član | 3. član | 4. član | 5. član |
 |---|---|---|---|---|---|---|
 | X | Vodenje projekta | 10% | 20% | 10% | 10% | 50% |
-| A | Sklop A | 20% | 20% | 20% | 20% | 20% |
+| A1 | Opredelitev projektne ideje in problema | 20% | 20% | 20% | 20% | 20% |
+| A2 | Projektni načrt | 20% | 20% | 20% | 20% | 20% |
+| A3 | Deležniki in potrebe naročnika | 0% | 50% | 50% | 0% | 0% |
+| A4 | Uporabniške zahteve | 0% | 0% | 0% | 100% | 0% |
+| A5 | Cilji projekta in merila uspeha | 0% | 50% | 0% | 0% | 50% |
+| A6 | Osnutek sistema | 20% | 20% | 20% | 20% | 20% |
+| A7 | Predlagan pristop razvoja | 0% | 0% | 50% | 50% | 0% |
+| A8 | Finalizacija predloga | 0%| 0% | 25% | 25% | 50% |
 | B1 | Design aplikacije | 25% | 50% | 0% | 25% | 0% |
 | B2 | Frontend prototip | 50% | 0% | 0% | 50% | 0% |
 | B3 | Backend prototip | 0% | 0% | 50% | 0% | 50% |
