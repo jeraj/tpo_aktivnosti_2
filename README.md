@@ -1,4 +1,138 @@
 # tpo_aktivnosti_2
+### Aktivnost X
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | X |
+| Predvideni datum pričetka izvajanja aktivnosti | 23.2.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 22.5.2026 |
+| Trajanje | 62 delovnih dni |
+| Naziv aktivnosti | Čas vodenje projekta |
+| Obseg aktivnosti v ČM | 20 ŠČD / 20 * 4/8 = 0.5 ČM |
+| Seznam ciljev aktivnosti | Spremljanje napredka projekta, usklajevanje dela ekipe, vodenje dnevnika sprememb |
+| Opis aktivnosti | Aktivnost poteka skozi celoten projekt. Zajema organizacijo sestankov ekipe, spremljanje napredka, razporejanje nalog, sprotno usklajevanje dela, vodenje dnevnika sprememb ter skrb za pravočasno izvedbo vseh projektnih aktivnosti. |
+| Morebitne odvisnosti in omejitve | Ni odvisnosti |
+| Pričakovani rezultati aktivnosti | Usklajeno delo ekipe, dokumentiran napredek projekta, voden dnevnik sprememb |
+
+### Aktivnost A1
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | A1 |
+| Predvideni datum pričetka izvajanja aktivnosti | 23.2.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 24.2.2026 |
+| Trajanje | 2 delovna dneva |
+| Naziv aktivnosti | Opredelitev projektne ideje in problema |
+| Obseg aktivnosti v ČM | 10 ŠČD / 20 * 4/8 = 0.25 ČM |
+| Seznam ciljev aktivnosti | Opredeliti osnovno idejo projekta, določiti problem, ki ga projekt rešuje |
+| Opis aktivnosti | Ekipa skupaj definira osnovno idejo projekta, opiše kontekst problema in preveri, kateri problem uporabnikov bo projekt reševal. |
+| Morebitne odvisnosti in omejitve | Ni odvisnosti |
+| Pričakovani rezultati aktivnosti | Opisana projektna ideja, opredeljen problem |
+
+### Aktivnost A2
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | A2 |
+| Predvideni datum pričetka izvajanja aktivnosti | 25.2.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 25.2.2026 |
+| Trajanje | 1 delovni dan |
+| Naziv aktivnosti | Projektni načrt |
+| Obseg aktivnosti v ČM | 5 ŠČD / 20 * 4/8 = 0.125 ČM |
+| Seznam ciljev aktivnosti | Popis aktivnosti projekta, pripraviti osnovo za Ganttov diagram in graf PERT |
+| Opis aktivnosti | Ekipa pripravi projektni načrt za celoten projekt ter določi aktivnosti in njihove odvisnosti. |
+| Morebitne odvisnosti in omejitve | Odvisnost: A1 |
+| Pričakovani rezultati aktivnosti | Projektni načrt, osnova za Gantt in PERT diagram |
+
+### Aktivnost A3
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | A3 |
+| Predvideni datum pričetka izvajanja aktivnosti | 26.2.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 2.3.2026 |
+| Trajanje | 3 delovni dnevi |
+| Naziv aktivnosti | Deležniki in potrebe naročnika |
+| Obseg aktivnosti v ČM | 6 ŠČD / 20 * 4/8 = 0.15 ČM |
+| Seznam ciljev aktivnosti | Identificirati naročnika, deležnike in uporabnike |
+| Opis aktivnosti | Ekipa identificira naročnika, deležnike in končne uporabnike sistema ter analizira njihove potrebe. |
+| Morebitne odvisnosti in omejitve | Odvisnost: A1 |
+| Pričakovani rezultati aktivnosti | Seznam deležnikov, opis potreb naročnika |
+
+### Aktivnost A4
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | A4 |
+| Predvideni datum pričetka izvajanja aktivnosti | 3.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 5.3.2026 |
+| Trajanje | 3 delovni dnevi |
+| Naziv aktivnosti | Uporabniške zahteve |
+| Obseg aktivnosti v ČM | 3 ŠČD / 20 * 4/8 = 0.075 ČM |
+| Seznam ciljev aktivnosti | Pripraviti uporabniške zgodbe in teste sprejemljivosti |
+| Opis aktivnosti | Ekipa pripravi SMART uporabniške zgodbe in definira teste sprejemljivosti. |
+| Morebitne odvisnosti in omejitve | Odvisnost: A3 |
+| Pričakovani rezultati aktivnosti | Seznam uporabniških zgodb |
+
+### Aktivnost A5
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | A5 |
+| Predvideni datum pričetka izvajanja aktivnosti | 3.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 5.3.2026 |
+| Trajanje | 3 delovni dnevi |
+| Naziv aktivnosti | Cilji projekta in merila uspeha |
+| Obseg aktivnosti v ČM | 6 ŠČD / 20 * 4/8 = 0.15 ČM |
+| Seznam ciljev aktivnosti | Določiti merljive cilje projekta |
+| Opis aktivnosti | Ekipa določi cilje projekta in merila uspeha. |
+| Morebitne odvisnosti in omejitve | Odvisnosti: A1, A3 |
+| Pričakovani rezultati aktivnosti | Dokumentirani cilji projekta |
+
+### Aktivnost A6
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | A6 |
+| Predvideni datum pričetka izvajanja aktivnosti | 6.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 6.3.2026 |
+| Trajanje | 1 delovni dan |
+| Naziv aktivnosti | Osnutek sistema |
+| Obseg aktivnosti v ČM | 5 ŠČD / 20 * 4/8 = 0.125 ČM |
+| Seznam ciljev aktivnosti | Opredeliti glavne komponente sistema |
+| Opis aktivnosti | Ekipa pripravi osnovni opis sistema in blokovni diagram. |
+| Morebitne odvisnosti in omejitve | Odvisnost: A4 |
+| Pričakovani rezultati aktivnosti | Osnovni opis sistema |
+
+### Aktivnost A7
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | A7 |
+| Predvideni datum pričetka izvajanja aktivnosti | 9.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 10.3.2026 |
+| Trajanje | 2 delovna dneva |
+| Naziv aktivnosti | Predlagan pristop razvoja |
+| Obseg aktivnosti v ČM | 4 ŠČD / 20 * 4/8 = 0.1 ČM |
+| Seznam ciljev aktivnosti | Določiti razvojni proces |
+| Opis aktivnosti | Določitev tehnologij, orodij in strategije testiranja sistema. |
+| Morebitne odvisnosti in omejitve | Odvisnost: A6 |
+| Pričakovani rezultati aktivnosti | Opisan razvojni pristop |
+
+### Aktivnost A8
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | A8 |
+| Predvideni datum pričetka izvajanja aktivnosti | 11.3.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 13.3.2026 |
+| Trajanje | 2 delovna dneva |
+| Naziv aktivnosti | Finalizacija predloga |
+| Obseg aktivnosti v ČM | 4 ŠČD / 20 * 4/8 = 0.1 ČM |
+| Seznam ciljev aktivnosti | Oddaja končnega predloga |
+| Opis aktivnosti | Pregled poglavij in združevanje v končni predlog projekta. |
+| Morebitne odvisnosti in omejitve | Odvisnost: A2, A5, A7 |
+| Pričakovani rezultati aktivnosti | Zaključen predlog projekta |
 
 ### Aktivnost B1
 
@@ -70,15 +204,46 @@
 | Polje | Vrednost |
 |---|---|
 | Oznaka aktivnosti | B6 |
-| Predvideni datum pričetka izvajanja aktivnosti | 31.4.2026 |
+| Predvideni datum pričetka izvajanja aktivnosti | 31.3.2026 |
 | Predvideni datum zaključka izvajanja aktivnosti | 3.4.2026 |
 | Trajanje | 4 delovnih dni |
-| Naziv aktivnosti | Preverjanje prototipa z naročniki |
+| Naziv aktivnosti | Popravljanje prototipa |
 | Obseg aktivnosti v ČM | 20 ŠČD / 20 * 4/8 = 0.5 ČM |
 | Seznam ciljev aktivnosti | Analizirati pridobljene povratne informacije, določiti potrebne izboljšave in impementirati popravke prototipa. |
 | Opis aktivnosti | Izvedba popravkov prototipa na podlagi povratnih informacij. |
-| Morebitne odvisnosti in omejitve | Odvisnost: B5. |
+| Morebitne odvisnosti in omejitve | Odvisnost: B5, B4. |
 | Pričakovani rezultati aktivnosti | Izboljšan prototip z implementiranimi popravki. |
+
+### Aktivnost C
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | C |
+| Predvideni datum pričetka izvajanja aktivnosti | 7.4.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 30.4.2026 |
+| Trajanje | 17 delovnih dni |
+| Naziv aktivnosti | Implementacija sistema |
+| Obseg aktivnosti v ČM | 55 ŠČD / 20 * 4/8 = 1.375 ČM |
+| Seznam ciljev aktivnosti | Implementirati funkcionalnosti sistema, integrirati komponente sistema, preveriti delovanje sistema |
+| Opis aktivnosti | Ekipa implementira funkcionalnosti sistema, razvije posamezne komponente in jih poveže v celoten sistem. Aktivnost vključuje tudi sprotno testiranje funkcionalnosti in odpravljanje napak. |
+| Morebitne odvisnosti in omejitve | Odvisnost: B. Sklop vsebuje 3 praznike, zato je skupno trajanje 17 delovnih dni. |
+| Pričakovani rezultati aktivnosti | Implementiran sistem, povezane komponente, delujoče funkcionalnosti sistema |
+
+### Aktivnost D
+
+| Polje | Vrednost |
+|---|---|
+| Oznaka aktivnosti | D |
+| Predvideni datum pričetka izvajanja aktivnosti | 4.5.2026 |
+| Predvideni datum zaključka izvajanja aktivnosti | 22.5.2026 |
+| Trajanje | 15 delovnih dni |
+| Naziv aktivnosti | Zaključek projekta |
+| Obseg aktivnosti v ČM | 54 ŠČD / 20 * 4/8 = 1.35 ČM |
+| Seznam ciljev aktivnosti | Zaključiti razvoj sistema, odpraviti napake, pripraviti dokumentacijo in predstavitev projekta |
+| Opis aktivnosti | Ekipa zaključi razvoj sistema, odpravi morebitne napake, pripravi končno dokumentacijo ter pripravi predstavitev projekta in oddajo projektnih rezultatov. |
+| Morebitne odvisnosti in omejitve | Odvisnost: C. Sklop ne vsebuje praznikov, upoštevani so samo vikendi. |
+| Pričakovani rezultati aktivnosti | Končna verzija sistema, zaključna dokumentacija, pripravljena predstavitev projekta |
+
 
 ### Razdelitev dela
 1. član - Jan
