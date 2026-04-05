@@ -1,4 +1,4 @@
-# tpo_aktivnosti_2
+### 6.2 Projektni načrt
 ### Aktivnost X
 
 | Polje | Vrednost |
